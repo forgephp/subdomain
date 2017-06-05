@@ -1,0 +1,18 @@
+{
+    "name": "forge/subdomain",
+    "description": "Capture the current subdomain and define custom routes.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zach Jenkins",
+            "email": "maliskoleather@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Forge\\Subdomain\\": "classes/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
